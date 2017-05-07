@@ -11,7 +11,7 @@ Use the [TravisCI primitive](https://docs.travis-ci.com/user/deployment/pages/) 
 Get a [Personal Access Token](https://github.com/settings/tokens).
 
 Only enable `public_repo` access for public repositories, `repo` for private.
-S
+
 You must defined environment variable via Travis:
 - `GITHUB_TOKEN`: GitHub token
 
