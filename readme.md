@@ -37,8 +37,6 @@ Install [Hugo](https://gohugo.io/)
 git init travis-continuous-delivery-hugo-publish
 cd travis-continuous-delivery-hugo-publish
 
-git checkout -b source
-
 cd ..
 hugo new site travis-continuous-delivery-hugo-publish --force
 

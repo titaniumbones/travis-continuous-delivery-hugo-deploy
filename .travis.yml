@@ -10,7 +10,7 @@ git:
 
 branches:
   only:
-    - source
+    - master
 
 env:
   global:
